@@ -22,5 +22,8 @@
   "homepage": "https://github.com/ab-en3rgy/frontend-project-lvl2#readme",
   "devDependencies": {
     "commander": "^9.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
